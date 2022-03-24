@@ -1,0 +1,68 @@
+header{
+    background: yellow;
+    margin: 0;
+}
+
+
+
+body {
+    
+    background: white;
+    margin: 50px;
+}
+
+
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: black;
+}
+
+.first_row {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;   
+    align-items: flex-start;
+}
+
+.first_row img {
+    height: 260px;
+}
+
+.second_row img {
+    height: 174px;
+}
+
+.Merry_Holiday{
+    text-align: center;
+}
+
+.Credit_Image{
+    position: absolute;
+    right: 70px;
+    top: 70px;
+}
+
+.Shop{
+    align-items: center;
+}
+
+.New_Exclusive_and_Rare{
+    text-align: center;
+}
+
+.Holidays_Collections{
+    text-align: center;
+}
+
+.Most_Popular_Items{
+    text-align: center;
+}
+
+a
+{
+    color: black;
+}
